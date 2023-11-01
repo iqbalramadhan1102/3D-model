@@ -6,3 +6,4 @@ Specs :
 - 8MP camera.
 - Quad-core 64-bit ARM Cortex-A53 processor.
 - 512MB of RAM / 128GB of storage.
+- Built-in dual Brushless Motor, and ToF sensor.
