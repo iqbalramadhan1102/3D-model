@@ -1,2 +1,3 @@
 # 3D-model
-3D model using Solidworks, and Blender
+
+3D model project using Solidworks, and Blender.
