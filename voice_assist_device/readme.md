@@ -4,5 +4,5 @@
 
 Specs :
 - Quad-core 64-bit ARM Cortex-A53.
-- 512MB of RAM.
+- 512MB of RAM / 128GB of storage.
 - Built-in ToF sensor, 5MP Camera, 2x Speakers, Microphone, SIM-card capability. 
