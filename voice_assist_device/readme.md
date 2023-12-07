@@ -2,6 +2,8 @@
 
 ![neckband-assy](https://github.com/iqbalramadhan1102/3D-model/blob/main/voice_assist_device/neckband-assy.png)
 
+![image](https://github.com/iqbalramadhan1102/3D-model/assets/56419725/dbd4b882-b71a-412c-a1db-04cbd34d30bc)
+
 Specs :
 - Quad-core 64-bit ARM Cortex-A53.
 - 512MB of RAM / 128GB of storage.
