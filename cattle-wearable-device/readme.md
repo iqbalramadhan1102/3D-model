@@ -1,10 +1,6 @@
-3D model for cattle monitoring wearable device.
+3D model for cattle monitoring wearable device. Click the .STL file for more detail.
 
-![cattle-assy](https://github.com/iqbalramadhan1102/3D-model/blob/main/cattle-wearable-device/cattle-assy.png)
-
-![cattle-assy](https://github.com/iqbalramadhan1102/3D-model/blob/main/cattle-wearable-device/wearable-2.png)
-
-![image](https://github.com/iqbalramadhan1102/3D-model/assets/56419725/57743475-9bbd-41d3-99c6-66068365c321)
+![Screenshot 2024-11-06 193350](https://github.com/user-attachments/assets/80d2c792-0164-4dbe-a42c-053a32d6b9fa)
 
 Specs : 
 - TTGO T7.
