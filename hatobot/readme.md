@@ -1,4 +1,5 @@
-3D design for Hatobot mobile robot. This mobile robot operates in an indoor environment and sees its surroundings using the built-in camera. People can interact with this robot by throwing the 'bird food', and this robot can perform a 'pecking position' on the food. When the battery is already low, it can search and go back to the charging station.
+3D design for the Hatobot autonomous mobile robot, designed for indoor environments with an integrated camera for real-time environmental perception. The robot allows users to interact with it by providing bird food, which it can detect and respond to by performing a natural pecking motion. When its battery level is low, the robot can autonomously locate and return to its charging station for recharging.
+
 
 ![hatobot-assy](https://github.com/iqbalramadhan1102/3D-model/blob/main/hatobot/hatobot-assy.png)
 
