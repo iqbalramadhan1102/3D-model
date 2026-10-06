@@ -1,4 +1,4 @@
-3D model for Voice Assist Device. The purpose is to assist people using camera vision, and microphone. People could ask for it and hear answers from the built-in speakers.
+3D model for a Voice Assist Device designed to assist users through camera vision and a built-in microphone. Users can ask questions or give voice commands, and the device provides audible responses through its built-in speakers.
 
 ![neckband-assy](https://github.com/iqbalramadhan1102/3D-model/blob/main/voice_assist_device/neckband-assy.png)
 
