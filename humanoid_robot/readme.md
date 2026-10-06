@@ -1,1 +1,3 @@
 A 120 cm-tall humanoid robot designed for interactive environments. It features facial expressions that allow people to interact with it, can navigate its surroundings, and uses a built-in camera to identify objects in front of it. The robot moves using four independently driven mecanum wheels, enabling omnidirectional movement.
+
+![humanoid_robot](humanoid-robot.png)
